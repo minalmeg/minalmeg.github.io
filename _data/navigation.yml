@@ -4,8 +4,8 @@ main:
     url: /publications/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://minalacharya.medium.com/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Minal_CMU_Resume.pdf
     
