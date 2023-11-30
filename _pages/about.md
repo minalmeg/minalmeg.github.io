@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a masters student at Carnegie Mellon University,INI. I'm pursuing in the Mobile & IoT Track. My interest lies mainly at intersection of ML and Systems.
+Highly inefficient ML Engineer and houseplants enthusiast. 
+
 
 Current
 ======
-I'm a Research Assistant at CMU's [Catalyst group](https://catalyst.cs.cmu.edu/) focused on MLSys under Prof. Zhihao Jia.
+
+Currently, joined as Founding Engineer [@Senu](senu.dev). 
 
 Courses
 ======
@@ -22,11 +24,12 @@ Here's a list of courses I've taken at CMU -
   -  14-776 - [Fundamentals of Business and Management](https://www.coursicle.com/cmu/courses/INI/14776/)
   -  10-714 - [Deep Learning Systems](https://dlsyscourse.org/)
 
-Before CMU
+Before Senu
 ------
-Prior to CMU, I was working as a Research Engineer at [REConnect Energy](https://www.reconnectenergy.com/) where I designed and developed time-series forecasting solutions. Before that, I was an AI Engineer at [Cynapto Technologies](https://www.cynapto.com/) and worked on optimising ML pipelines on edge devices.
 
-
+Survived a semester at CMU INI, where acronyms outnumbered common sense. There, I worked with CMU's [Catalyst group](https://catalyst.cs.cmu.edu/) focused on MLSys under Prof. Zhihao Jia. Before CMU, I was working as a Research Engineer at [REConnect Energy](https://www.reconnectenergy.com/) where I designed and developed time-series forecasting solutions. I was also an AI Engineer at [Cynapto Technologies](https://www.cynapto.com/) and worked on optimising ML pipelines on edge devices.
+ 
 For more info
 ------
 Drop me a mail?
+[acharyaminal04@gmail.com](acharyaminal04@gmail.com)
