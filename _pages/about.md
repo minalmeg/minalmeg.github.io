@@ -14,7 +14,7 @@ Highly inefficient ML Engineer and houseplants enthusiast.
 Current
 ======
 
-Currently, joined as Founding Engineer [@Senu](senu.dev). 
+Currently, joined as Founding Engineer [@Senu](https://www.senu.dev/). 
 
 Before Senu
 ------
