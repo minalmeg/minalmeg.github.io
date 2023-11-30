@@ -16,14 +16,6 @@ Current
 
 Currently, joined as Founding Engineer [@Senu](senu.dev). 
 
-Courses
-======
-Here's a list of courses I've taken at CMU - 
-  -  15-513 - [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
-  -  14-741 - [Introduction to Information Security](https://www.cmu.edu/mits/curriculum/core/14-741.html)
-  -  14-776 - [Fundamentals of Business and Management](https://www.coursicle.com/cmu/courses/INI/14776/)
-  -  10-714 - [Deep Learning Systems](https://dlsyscourse.org/)
-
 Before Senu
 ------
 
