@@ -21,8 +21,69 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#000000">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- Add custom dark mode styles -->
+<style>
+  :root {
+    --background-color: #121212;
+    --text-color: #e0e0e0;
+    --link-color: #52adc8;
+    --heading-color: #ffffff;
+    --border-color: #333333;
+    --code-background: #1e1e1e;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+  }
+  
+  .page__content p, .page__content li {
+    color: var(--text-color);
+  }
+  
+  a:not(.btn) {
+    color: var(--link-color);
+  }
+  
+  .page__hero--overlay {
+    background-color: var(--background-color) !important;
+  }
+  
+  .author__urls.social-icons .fa,
+  .author__urls.social-icons .fas,
+  .author__urls.social-icons .fab,
+  .author__urls.social-icons .far {
+    color: var(--text-color);
+  }
+  
+  .author__bio {
+    color: var(--text-color);
+  }
+  
+  .masthead {
+    background-color: var(--background-color);
+  }
+  
+  .greedy-nav {
+    background-color: var(--background-color);
+  }
+  
+  .greedy-nav a {
+    color: var(--text-color);
+  }
+  
+  .page__footer {
+    background-color: #000000;
+    color: #cccccc;
+  }
+</style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
