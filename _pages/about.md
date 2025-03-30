@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ask me about machine learning, Rage Against the Machine Learning, and my protein intake. 
+Ask me about machine learning and my protein intake. 
 
 
 Current
